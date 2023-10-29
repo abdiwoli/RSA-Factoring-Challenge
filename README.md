@@ -1,1 +1,1 @@
-RSA Factoring Challeng is an optional project on alx
+RSA Factoring Challenge
